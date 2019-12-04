@@ -1,3 +1,3 @@
 # KiemTra
-Quản Lý Sinh Vien
+Quản Lý Sinh Viên
 Võ Văn Lợi / 16T1021088
