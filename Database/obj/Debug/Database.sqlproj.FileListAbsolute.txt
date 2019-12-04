@@ -1,0 +1,7 @@
+F:\c##\KiemTra\Database\bin\Debug\Database.dacpac
+F:\c##\KiemTra\Database\bin\Debug\Database.dll
+F:\c##\KiemTra\Database\bin\Debug\Database.pdb
+F:\c##\KiemTra\Database\obj\Debug\Database.sqlprojAssemblyReference.cache
+F:\c##\KiemTra\Database\obj\Debug\Database.dll
+F:\c##\KiemTra\Database\obj\Debug\Database.pdb
+F:\c##\KiemTra\Database\bin\Debug\Database.publish.xml

@@ -1,0 +1,10 @@
+F:\visual studio 2017\c##\KiemTra\bin\Debug\KiemTra.exe.config
+F:\visual studio 2017\c##\KiemTra\bin\Debug\KiemTra.exe
+F:\visual studio 2017\c##\KiemTra\bin\Debug\KiemTra.pdb
+F:\visual studio 2017\c##\KiemTra\obj\Debug\KiemTra.csprojAssemblyReference.cache
+F:\visual studio 2017\c##\KiemTra\obj\Debug\KiemTra.Form1.resources
+F:\visual studio 2017\c##\KiemTra\obj\Debug\KiemTra.Properties.Resources.resources
+F:\visual studio 2017\c##\KiemTra\obj\Debug\KiemTra.csproj.GenerateResource.cache
+F:\visual studio 2017\c##\KiemTra\obj\Debug\KiemTra.csproj.CoreCompileInputs.cache
+F:\visual studio 2017\c##\KiemTra\obj\Debug\KiemTra.exe
+F:\visual studio 2017\c##\KiemTra\obj\Debug\KiemTra.pdb
